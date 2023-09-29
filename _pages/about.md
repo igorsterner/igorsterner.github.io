@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am an Engineering Master's student at the [University of Cambridge](https://www.cam.ac.uk/), specialising in [Information and Computing Engineering](http://www.eng.cam.ac.uk/research/academic-divisions/information-engineering). As a culmination to my past three years of study, I am taking advanced theoretical courses in deep learning, computer vision, information theory and computational neuroscience. 
+I am a graduate of [Engineering](http://www.eng.cam.ac.uk/) (BA + MEng) from the [University of Cambridge](https://www.cam.ac.uk/), specialising in [Information and Computing Engineering](http://www.eng.cam.ac.uk/research/academic-divisions/information-engineering). 
+I received Honours with Distinction for my degree, with a first class result in both my fourth year examinations and master's project.
+My master's project was supervised by [Professor Bill Byrne](https://sites.google.com/view/bill-byrne/) on the topic of encoding visual information as input to large language models.
 
-My master's project is supervised by [Prof. Bill Byrne](https://sites.google.com/view/bill-byrne/) on the topic of "Vision Encoders in Visual Question Answering". I am also undertaking a dissertation with [Prof. Simone Teufel](https://www.cl.cam.ac.uk/~sht25/) to continue my previous research on automatic detection of the linguistic phenomenon of Code-Switching.
+I was an undergraduate Diamond Jubilee Scholar of the [Institute of Engineering and Technology](https://www.theiet.org/), and have now received a full scholarship to join the [Advanced Computer Science](https://www.cst.cam.ac.uk/admissions/acs) program in the [Department of Computer Science and Technology](https://www.cst.cam.ac.uk/).
+I will be continuing work with [Professor Simone Teufel](https://www.cl.cam.ac.uk/~sht25/) in the field of natural language processing. 
 
-My interests lie in the intersection of cutting-edge natural language processing research and the study of languages. As such, alongside my technical studies I have been a regular participant of courses at the [Centre for Languages and Inter-Communication](https://www.clic.eng.cam.ac.uk/) in German (passed Goethe B2 in 2022) and Chinese (preparing for HSK4).
+I am half-English, half-Swedish and have learnt Chinese (A-Level) and German (Goethe B2).
 
 My [CV](https://igorsterner.github.io/files/igorsternercv.pdf) gives more detail.

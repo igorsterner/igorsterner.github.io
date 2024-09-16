@@ -2,8 +2,6 @@
 title: "2023 - Debating at the Cambridge Union"
 excerpt: "I was selected as the student speaker in opposition of the motion 'This House Believes AI Is An Existential Threat'
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I4wWbjb4E4o?si=XOMBlFCRAA-VX56u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 "
 collection: portfolio
 ---

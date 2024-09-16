@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Igor Sterner"
   avatar           : "igorsterner.jpg"
-  bio              : "MPhil student in Advanced Computer Science @ University of Cambridge"
-  location         : "Pembroke College, Cambridge, UK"
+  bio              : "PhD student in NLP @ University of Edinburgh"
+  # location         : "Pembroke College, Cambridge, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "is473@cam.ac.uk"
+  email            : "igor.sterner@ed.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

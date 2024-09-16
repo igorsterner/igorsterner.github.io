@@ -1,11 +1,13 @@
 ---
-title: "How will A.I.s turn art into science?"
+title: "2019 - How will A.I.s turn art into science?"
 excerpt: "I was the UK Overall winner (school) of the RCSU/Imperial College Science Challenge 2019
 
 <br/><img src='/images/rcsu.jpg'>"
 
 collection: portfolio
 ---
+
+Date written: March 2019
 
 ## Background
 

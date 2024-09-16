@@ -6,7 +6,7 @@ excerpt: "Over the 2020 Coronavirus lockdown, I built a bamboo bicycle!
 collection: portfolio
 ---
 
-![image](/images/bamboo.jpg)
+![image](/images/final_bikey_thin.jpg)
 
 ## Inspiration
 

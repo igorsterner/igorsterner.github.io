@@ -12,11 +12,13 @@ I am a PhD student at the University of Edinburgh, funded by an EPSRC scholarshi
 
 I did my undergraduate studies in Engineering (BA + MEng) at the University of Cambridge, where I was a Diamond Jubilee Scholar of the Institute of Engineering and Technology.
 In my final two years, I specialized in Information and Computing Engineering, earning prizes in both years and graduating with distinction.
-My master's project was supervised by [Bill Byrne](https://sites.google.com/view/bill-byrne/) on the topic of encoding visual information as input to large language models.
+My master's project was supervised by [Bill Byrne](https://sites.google.com/view/bill-byrne/) on VQA.
 
-After that, I received a full scholarship to join the Advanced Computer Science (MPhil) program in the Computer Lab at Cambridge.
+After that, I received a full scholarship to join the MPhil program in the Computer Lab at Cambridge.
 My thesis was on computational models of code-switching, supervised by [Simone Teufel](https://www.cl.cam.ac.uk/~sht25/).
 I also did a project supervised by [Petar Veličković](https://petar-v.com/) on non-parametric graph rewiring methods for GNNs.
 I graduated from this MPhil with distinction in the top 10 of my cohort, and won the best MPhil presentation prize.
 
-In /hobbies I have put something (I think is) cool which I've done each year in the past few years. 
+As a hobby, I enjoy learning about other languages! 
+I'm reasonably proficient in German (Goethe B2), Chinese (A-Level) and Swedish. 
+In /hobbies I have put some things (I think is) cool which I've done each year in the past few years. 
